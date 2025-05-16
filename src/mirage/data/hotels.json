@@ -1,0 +1,347 @@
+[
+  {
+    "hotelCode": 71222,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/481481762/481481762.jpg",
+        "accessibleText": "отель Hyatt Pune"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626081.jpg",
+        "accessibleText": "отель Hyatt Pune"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626095.jpg",
+        "accessibleText": "отель Hyatt Pune"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626104.jpg",
+        "accessibleText": "отель Hyatt Pune"
+      },
+      {
+        "imageUrl": "/images/hotels/481481762/525626212.jpg",
+        "accessibleText": "отель Hyatt Pune"
+      }
+    ],
+    "title": "Отель Hyatt Pune",
+    "subtitle": "Калиани Нагар, Пуна | 3.3 км от центра города",
+    "benefits": [
+      "Бесплатная отмена",
+      "Без предоплаты – оплата в отеле"
+    ],
+    "price": "18900",
+    "ratings": "5",
+    "city": "пуна",
+    "reviews": {
+      "data": [
+        {
+          "reviewerName": "Рахул Патель",
+          "rating": 5,
+          "review": "Очень хороший отель, персонал очень дружелюбный. Еда тоже отличная.",
+          "date": "Дата проживания: 2021-01-01",
+          "verified": true
+        },
+        {
+          "reviewerName": "Сара Джонсон",
+          "rating": 4,
+          "review": "Отличный отель с превосходным обслуживанием. Номера просторные и чистые. Персонал сделал всё возможное для комфортного проживания. Очень рекомендую!",
+          "date": "Дата проживания: 2021-02-15",
+          "verified": false
+        },
+        {
+          "reviewerName": "Джон Смит",
+          "rating": 3,
+          "review": "Средний отель. Персонал мог бы быть внимательнее.",
+          "date": "Дата проживания: 2021-03-10",
+          "verified": true
+        },
+        {
+          "reviewerName": "Эмили Дэвис",
+          "rating": 5,
+          "review": "Потрясающий опыт! Отель превзошёл мои ожидания.",
+          "date": "Дата проживания: 2021-04-20",
+          "verified": false
+        },
+        {
+          "reviewerName": "Дэвид Уилсон",
+          "rating": 1,
+          "review": "Ужасный опыт. Отель был грязным, а персонал грубым.",
+          "date": "Дата проживания: 2021-05-05",
+          "verified": true
+        },
+        {
+          "reviewerName": "Джессика Томпсон",
+          "rating": 4,
+          "review": "Прекрасный отель с отличным расположением. Персонал был дружелюбным и отзывчивым.",
+          "date": "Дата проживания: 2021-06-12",
+          "verified": false
+        },
+        {
+          "reviewerName": "Майкл Браун",
+          "rating": 2,
+          "review": "Разочаровывающее пребывание. Номер был не чистым, а обслуживание медленным.",
+          "date": "Дата проживания: 2021-07-20",
+          "verified": true
+        },
+        {
+          "reviewerName": "София Ли",
+          "rating": 5,
+          "review": "Исключительное обслуживание и красивые номера. Персонал был невероятно дружелюбным и внимательным. Удобства были на высшем уровне. В целом, незабываемый опыт!",
+          "date": "Дата проживания: 2021-08-05",
+          "verified": false
+        },
+        {
+          "reviewerName": "Дэниел Джонсон",
+          "rating": 3,
+          "review": "Неплохой отель со средними удобствами. Персонал был вежливым и отзывчивым. Однако номер мог бы быть чище. В целом, нормальное пребывание.",
+          "date": "Дата проживания: 2021-09-10",
+          "verified": true
+        },
+        {
+          "reviewerName": "Оливия Уилсон",
+          "rating": 4,
+          "review": "Наслаждалась проживанием в этом отеле. Номер был комфортным, а персонал дружелюбным.",
+          "date": "Дата проживания: 2021-10-15",
+          "verified": false
+        },
+        {
+          "reviewerName": "Итан Дэвис",
+          "rating": 4,
+          "review": "Фантастический отель с отличными удобствами. Персонал был внимательным и отзывчивым.",
+          "date": "Дата проживания: 2021-11-20",
+          "verified": true
+        },
+        {
+          "reviewerName": "Ава Смит",
+          "rating": 2,
+          "review": "Не доволен отелем. Номер был маленьким, а обслуживание плохим.",
+          "date": "Дата проживания: 2021-12-05",
+          "verified": false
+        },
+        {
+          "reviewerName": "Миа Джонсон",
+          "rating": 4,
+          "review": "Приятное пребывание в отеле. Удобное расположение и дружелюбный персонал.",
+          "date": "Дата проживания: 2022-01-10",
+          "verified": true
+        },
+        {
+          "reviewerName": "Ноа Уилсон",
+          "rating": 3,
+          "review": "Средний отель с достойными удобствами. Персонал был отзывчивым.",
+          "date": "Дата проживания: 2022-02-15",
+          "verified": false
+        },
+        {
+          "reviewerName": "Лиам Дэвис",
+          "rating": 4,
+          "review": "Превосходный отель с безупречным обслуживанием. Номера были роскошными и комфортными.",
+          "date": "Дата проживания: 2022-03-20",
+          "verified": true
+        }
+      ]
+    }
+  },
+  {
+    "hotelCode": 71223,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/465660377/465660377.jpg",
+        "accessibleText": "Courtyard by Marriott Pune"
+      }
+    ],
+    "title": "Отель Courtyard by Marriott Pune Hinjewadi",
+    "subtitle": "500 метров от Rajiv Gandhi Infotech Park",
+    "benefits": [
+      "Бесплатная отмена",
+      "Без предоплаты – оплата в отеле",
+      "Бесплатный Wi-Fi",
+      "Бесплатный обед"
+    ],
+    "price": "25300",
+    "ratings": "4",
+    "city": "пуна"
+  },
+  {
+    "hotelCode": 71224,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/469186143/469186143.jpg",
+        "accessibleText": "The Westin Pune Koregaon Park"
+      }
+    ],
+    "title": "Отель The Westin Pune Koregaon Park",
+    "subtitle": "5.4 км от центра",
+    "benefits": [
+      "Бесплатная отмена",
+      "Без предоплаты – оплата в отеле",
+      "Бесплатный Wi-Fi"
+    ],
+    "price": "11300",
+    "ratings": "5",
+    "city": "пуна"
+  },
+  {
+    "hotelCode": 71225,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/252004905/252004905.jpg",
+        "accessibleText": "Novotel Pune Viman Nagar Road"
+      }
+    ],
+    "title": "Отель Novotel Pune Viman Nagar Road",
+    "subtitle": "Weikfield IT City Infopark | 7.1 км от центра",
+    "benefits": [
+      "Разрешено проживание с питомцами",
+      "Ужин + обед включены",
+      "Бесплатный Wi-Fi",
+      "Бесплатный такси из аэропорта"
+    ],
+    "price": "14599",
+    "ratings": "3",
+    "city": "пуна"
+  },
+  {
+    "hotelCode": 71226,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/54360345/54360345.jpg",
+        "accessibleText": "Vivanta Pune"
+      }
+    ],
+    "title": "Отель Vivanta Pune",
+    "subtitle": "Xion Complex, | 14.2 км от центра",
+    "benefits": [
+      "Разрешено проживание с питомцами",
+      "Бесплатный Wi-Fi",
+      "Бесплатная отмена",
+      "Без предоплаты – оплата в отеле"
+    ],
+    "price": "9799",
+    "ratings": "4.3",
+    "city": "пуна"
+  },
+  {
+    "hotelCode": 81223,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/13800549/13800549.jpg",
+        "accessibleText": "Taj Lands End"
+      }
+    ],
+    "title": "Отель Taj Lands End",
+    "subtitle": "200 метров от набережной Bandstand",
+    "benefits": [
+      "Ежедневная уборка",
+      "Сейф",
+      "Бесплатный Wi-Fi",
+      "Открытый бассейн"
+    ],
+    "price": "34100",
+    "ratings": "4.2",
+    "city": "мумбаи"
+  },
+  {
+    "hotelCode": 81224,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/32810889/32810889.jpg",
+        "accessibleText": "Trident Nariman Point"
+      }
+    ],
+    "title": "Отель Trident Nariman Point",
+    "subtitle": "24 км от международного аэропорта Chhatrapati Shivaji",
+    "benefits": [
+      "Трансфер от/до аэропорта",
+      "Спа и wellness-центр",
+      "Бесплатный Wi-Fi",
+      "Чайник/кофеварка в номерах",
+      "Фитнес-центр"
+    ],
+    "price": "38460",
+    "ratings": "3.9",
+    "city": "мумбаи"
+  },
+  {
+    "hotelCode": 81225,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/503567645/503567645.jpg",
+        "accessibleText": "Aurika - Luxury by Lemon Tree Hotels"
+      }
+    ],
+    "title": "Отель Aurika - Luxury by Lemon Tree Hotels",
+    "subtitle": "5.1 км от торгового центра Phoenix Market City, Aurika",
+    "benefits": [
+      "Открытый бассейн",
+      "Спа и wellness-центр",
+      "Бесплатный Wi-Fi",
+      "Бесплатная парковка",
+      "Бар"
+    ],
+    "price": "17460",
+    "ratings": "4.9",
+    "city": "мумбаи"
+  },
+  {
+    "hotelCode": 81226,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/472036509/472036509.jpg",
+        "accessibleText": "Four Seasons Hotel Mumbai"
+      }
+    ],
+    "title": "Отель Four Seasons Hotel Mumbai",
+    "subtitle": "В самом сердце Worli, делового центра крупнейшего города Индии",
+    "benefits": [
+      "Кухня",
+      "Разрешено проживание с питомцами",
+      "Бесплатный Wi-Fi",
+      "Бесплатная парковка",
+      "Круглосуточная стойка регистрации"
+    ],
+    "price": "12460",
+    "ratings": "3.5",
+    "city": "мумбаи"
+  },
+  {
+    "hotelCode": 81227,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/516847915/516847915.jpg",
+        "accessibleText": "Treebo Trend New Light Suites"
+      }
+    ],
+    "title": "Отель Treebo Trend New Light Suites",
+    "subtitle": "6.2 км от The Heritage Centre & Aerospace Museum",
+    "benefits": [
+      "Номера для некурящих",
+      "Прачечная",
+      "Бесплатный Wi-Fi",
+      "Чайник/кофеварка в номерах"
+    ],
+    "price": "5460",
+    "ratings": "3.5",
+    "city": "бангалор"
+  },
+  {
+    "hotelCode": 81228,
+    "images": [
+      {
+        "imageUrl": "/images/hotels/513923904/513923904.jpg",
+        "accessibleText": "Renaissance Bengaluru Race Course Hotel"
+      }
+    ],
+    "title": "Отель Renaissance Bengaluru Race Course Hotel",
+    "subtitle": "Расположен в самом сердце Бангалора Renaissance Bengaluru Race Course Hotel",
+    "benefits": [
+      "Открытый бассейн",
+      "Спа и wellness-центр",
+      "Трансфер от/до аэропорта",
+      "Бар"
+    ],
+    "price": "21460",
+    "ratings": "5",
+    "city": "бангалор"
+  }
+]
